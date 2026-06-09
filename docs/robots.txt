@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://culottagreen8rpw.github.io/2026-list-56/sitemap.xml
